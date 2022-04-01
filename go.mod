@@ -10,6 +10,7 @@ require (
 	github.com/mattn/go-isatty v0.0.12
 	github.com/stretchr/testify v1.4.0
 	github.com/ugorji/go/codec v1.1.7
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	gopkg.in/yaml.v2 v2.2.8
 )
 
